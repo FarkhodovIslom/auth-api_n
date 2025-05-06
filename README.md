@@ -58,7 +58,7 @@ Project for authentication and authorization of users using JWT tokens.
 
 1. Clone repository:
 ```bash
-git clone [<repository-url>](https://github.com/FarkhodovIslom/auth-api_n.git)
+git clone https://github.com/FarkhodovIslom/auth-api_n.git
 cd auth-api
 ```
 
